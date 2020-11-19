@@ -11,9 +11,9 @@
   "profile": {
     "name": "typicode"
   },
-  "symbol": [
+  "symbols": [
     { "id": 1, "text": "True North®" },
     { "id": 2, "text": "© 2020" },
     { "id": 3, "text": "€199.99" }
-  ],
+  ]
 }
